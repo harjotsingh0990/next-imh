@@ -1,6 +1,6 @@
 "use client"
 import React, { useState } from 'react';
-import PatientInfo from './pages/PatientInfo';
+//import PatientInfo from './pages/PatientInfo';
 
 const YourComponent = () => {
   const [responseData, setResponseData] = useState(null);
